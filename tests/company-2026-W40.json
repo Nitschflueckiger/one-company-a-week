@@ -1,0 +1,85 @@
+{
+ "woche": "2026-W40",
+ "firma": {
+  "name": "e.l.f. Beauty, Inc.",
+  "ticker": "ELF",
+  "boerse": "NYSE",
+  "branche": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "cik": 1600033,
+  "zehn_k_url": "https://www.sec.gov/Archives/edgar/data/1600033/000160003326000020/elf-20260331.htm",
+  "zehn_k_stichtag": "2026-03-31",
+  "zehn_k_datum": "2026-05-21"
+ },
+ "jahre": [
+  {
+   "ende": "2022-03-31",
+   "umsatz": 392155000.0,
+   "betrieb": 29770000.0,
+   "gewinn": 21770000.0,
+   "cashflow": 19513000.0,
+   "investitionen": 4818000.0,
+   "betriebsmarge": 0.07591386059083781,
+   "nettomarge": 0.05551376369037753,
+   "fcf": 14695000.0
+  },
+  {
+   "ende": "2023-03-31",
+   "umsatz": 578844000.0,
+   "betrieb": 68143000.0,
+   "gewinn": 61530000.0,
+   "cashflow": 101883000.0,
+   "investitionen": 1723000.0,
+   "betriebsmarge": 0.11772256428329567,
+   "nettomarge": 0.10629806994630678,
+   "fcf": 100160000.0,
+   "wachstum": 0.4760592112812536
+  },
+  {
+   "ende": "2024-03-31",
+   "umsatz": 1023932000.0,
+   "betrieb": 149678000.0,
+   "gewinn": 127663000.0,
+   "cashflow": 71154000.0,
+   "investitionen": 8659000.0,
+   "betriebsmarge": 0.146179629115996,
+   "nettomarge": 0.12467917791415836,
+   "fcf": 62495000.0,
+   "wachstum": 0.768925651816379
+  },
+  {
+   "ende": "2025-03-31",
+   "umsatz": 1313517000.0,
+   "betrieb": 158027000.0,
+   "gewinn": 112089000.0,
+   "cashflow": 133840000.0,
+   "investitionen": 18520000.0,
+   "betriebsmarge": 0.1203083020623258,
+   "nettomarge": 0.0853350204070446,
+   "fcf": 115320000.0,
+   "wachstum": 0.2828166323544923
+  },
+  {
+   "ende": "2026-03-31",
+   "umsatz": 1636472000.0,
+   "betrieb": 73632000.0,
+   "gewinn": 26318000.0,
+   "cashflow": 212511000.0,
+   "investitionen": 22449000.0,
+   "betriebsmarge": 0.04499435370724339,
+   "nettomarge": 0.016082157226032588,
+   "fcf": 190062000.0,
+   "wachstum": 0.24587043791591578,
+   "kasse": 289685000.0,
+   "schulden": 841676000.0,
+   "eigenkapital": 1130530000.0
+  }
+ ],
+ "abschnitte": {
+  "WHAT THEY DO": "e.l.f. Beauty is a multi-brand cosmetics and skincare company. Its flagship, e.l.f. Cosmetics, makes trend-driven makeup at low prices; the group also includes e.l.f. SKIN, rhode (a skincare line founded by Hailey Rhode Bieber), Naturium and Well People. The pitch is \"clean\" — avoiding certain controversial ingredients — vegan and cruelty-free products at accessible prices, available online and through retailers such as Target, Walmart, Amazon and Sephora. Keys Soulcare was transferred to Alicia Keys after year-end.",
+  "WHAT THE NUMBERS SAY": "The fiscal year ends in March. Revenue grew from 392 mn USD in fiscal 2022 to 1.6 bn USD in fiscal 2026 — 41.4% a year over three years, and still 24.6% last year. Margins went on a round trip: operating margin (operating income as a share of revenue) climbed from 7.6% to 14.6% by fiscal 2024, then fell to 12.0% and, last year, 4.5%. Operating income dropped from 158 mn to 74 mn USD and net income from 112 mn to 26 mn USD, a net margin of 1.6%. Cash flow tells a different story: operating cash flow hit 213 mn USD and free cash flow (operating cash flow minus capital expenditure) came to 190 mn USD, the strongest of the period shown. The balance sheet shows cash of 290 mn USD against long-term debt of 842 mn USD, and shareholders' equity of 1.1 bn USD.",
+  "THE CASE FOR": "Growth like this is rare in a mature industry, and 24.6% last year suggests it has not stalled. The formula — premium quality at low prices, loudly marketed — keeps winning shelf space, while newer brands such as rhode and Naturium extend it beyond budget makeup. The business is asset-light: annual capital expenditure has never topped 22 mn USD, so most operating cash flow becomes free cash flow. Free cash flow far above reported net income hints that part of the profit slump reflects accounting charges rather than cash leaving the business.",
+  "THE CASE AGAINST": "A company that grows revenue 24.6% while operating income falls from 158 mn to 74 mn USD has a cost problem, whatever the cause; a 4.5% operating margin leaves little room for error. Debt of 842 mn USD is heavy next to 290 mn USD of cash, and interest will weigh on earnings. The gap between free cash flow and net income can also cut the other way — the timing of cash movements may flatter one year and reverse the next. And beauty is fashion: hot brands can cool fast."
+ },
+ "quelle": "SEC EDGAR (Form 10-K, XBRL company facts)",
+ "seite": "https://example.org/company"
+}
